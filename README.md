@@ -141,7 +141,7 @@ Create customer cohorts based on their acquisition month: Track their behavior (
 - **Analyze Customer Feedback:** Collect and analyze customer feedback to identify common pain points and areas for improvement, and address these promptly.
 - **Monitor and Adapt Strategies:** Continuously monitor sales data and customer feedback to identify trends and adjust marketing strategies accordingly.
 
-**<ins>9. Operational Adjustments:
+**<ins>9. Operational Adjustments:</ins>**
 
 - **Optimize Staffing and Logistics:** Adjust staffing and delivery logistics to handle higher volume during peak sales periods efficiently.
 
